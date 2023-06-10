@@ -134,6 +134,7 @@ h1 {
     font-family: var(--fonte-secundaria);
     font-size: 1.5rem;
     font-weight: 400;
+    width: 100%;
 
 }
 
