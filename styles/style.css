@@ -216,5 +216,8 @@ h1 {
     
    }
 
-   
+    .apresentacao__imagem {
+    width: 90%;
+   }
+
 }
